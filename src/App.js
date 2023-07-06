@@ -10,8 +10,8 @@ export default function App() {
     <span style={{flex: 1}}/>
     <nav>
       <Link to="/">Home</Link>
-      <Link to="about">About</Link>
-      <Link to="gallery">Gallery</Link>
+      <Link to="/about">About</Link>
+      <Link to="/gallery">Gallery</Link>
     </nav>
     </header>
 
